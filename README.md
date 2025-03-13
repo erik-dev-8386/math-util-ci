@@ -1,3 +1,9 @@
+[![Math Utility Project (CI included) | © 2025 by Erik-Dev](https://github.com/erik-dev-8386/math-util-ci/actions/workflows/maven.yml/badge.svg)](https://github.com/erik-dev-8386/math-util-ci/actions/workflows/maven.yml)
+
+
+
+
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
